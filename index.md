@@ -9,8 +9,8 @@ Este blog nace ante la necesidad de contenido sobre inteligencia artificial en e
 
 # Contenido
 
--Python:
-  -Instalación de Anaconda
+- Python:
+  - Instalación de Anaconda
 
 
 
