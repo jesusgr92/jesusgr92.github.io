@@ -9,7 +9,7 @@ Este blog nace ante la necesidad de contenido sobre inteligencia artificial en e
 
 # Contenido
 
-- Python:
+- [Python] (./python/python.md):
   - Instalación de Anaconda
 
 
