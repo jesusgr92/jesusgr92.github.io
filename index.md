@@ -9,10 +9,8 @@ Este blog nace ante la necesidad de contenido sobre inteligencia artificial en e
 
 # Contenido
 
-- [Python](./python/python.md):
-  - Instalación de Anaconda
-
-
-
-
-
+<html>
+  <a href="./python/python.md">
+    <img src="./images/PYTHON.jpg" width=300" >
+  </a>
+</html>
