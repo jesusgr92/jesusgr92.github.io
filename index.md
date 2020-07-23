@@ -9,9 +9,5 @@ Este blog nace ante la necesidad de contenido sobre inteligencia artificial en e
 
 # Contenido
 
-[![Python](./images/PYTHON.jpg)]["./python/python.md"]
-<html>
-  <a href="./python/python.md">
-    <img src="./images/PYTHON.jpg" width=300" >
-  </a>
-</html>
+[![Python](./images/PYTHON.jpg)]('./python/python.md')
+
